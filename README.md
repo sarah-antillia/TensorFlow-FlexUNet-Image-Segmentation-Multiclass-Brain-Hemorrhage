@@ -17,7 +17,6 @@ in
 MBH: Multi-class Brain Hemorrhage Segmentation in Non-conrast CT</b>
 </a>
 <br>
-<br
 <hr>
 <b>Acutual Image Segmentation for 512x512 pixels Brain-Hemorrhage Images</b><br>
 As shown below, the inferred masks predicted by our segmentation model trained on the 
