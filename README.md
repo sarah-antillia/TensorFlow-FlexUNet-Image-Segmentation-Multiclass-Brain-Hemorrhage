@@ -132,15 +132,15 @@ As shown above, the number of images of train and valid datasets is not so large
 <h4>2.2 PNG ImageMask Dataset Derivation</h4>
 We used the following two Python scripts to derive our PNG dataset from the 
 <a href=" https://huggingface.co/datasets/WuBiao/BHSD/resolve/main/label_192.zip">
-label_192.zip
+label_192.zip.
 </a>
 <ul>
 <li><a href="./generator/MBHImageMaskDatasetGenerator.py">MBHImageMaskDatasetGenerator.py</a></li>
 <li><a href="./generator/split_master.py">split_master.py</a></li>
 </ul>
-In MBHImageMaskDatasetGenerator.py, we exclude empty black masks and their correspoing images to generate our PNG dataset, 
+In MBHImageMaskDatasetGenerator.py, we exclude empty black masks and their corresponding images to generate our PNG dataset, 
 and used the following category and color mapping table to generate the colorized masks.
-You may change this color mappging table in the Python script according to your preference.<br>
+You may change this color mapping table in the Python script according to your preference.<br>
 <br>
 <table <table border="1" style="border-collapse: collapse;">
 <tr>
