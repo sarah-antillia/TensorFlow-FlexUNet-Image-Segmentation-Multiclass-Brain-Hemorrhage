@@ -233,7 +233,7 @@ patience      = 10
 </pre>
 
 <b>RGB Color map</b><br>
-rgb color map dict for MBH 1+3 classes.<br>
+rgb color map dict for MBH 1+5 classes.<br>
 <pre>
 [mask]
 mask_file_format = ".png"
