@@ -56,9 +56,6 @@ in
 <b>
 MBH: Multi-class Brain Hemorrhage Segmentation in Non-conrast CT</b>
 </a>
-<!--
-
- -->
 <br>
 <br>
 <a href="https://github.com/White65534/BHSD/tree/2ec4322a5a644494a312df891a3089bbf74c136a">
