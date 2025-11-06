@@ -263,7 +263,7 @@ By using this callback, on every epoch_change, the inference procedure can be ca
 <b>Epoch_change_inference output at ending (epoch 51,52,53)</b><br>
 <img src="./projects/TensorFlowFlexUNet/MBH/asset/epoch_change_infer_at_end.png" width="1024" height="auto"><br>
 <br>
-In this experiment, the training process was stopped at epoch 37 by EearlyStopping callback.<br><br>
+In this experiment, the training process was stopped at epoch 53 by EearlyStopping callback.<br><br>
 <img src="./projects/TensorFlowFlexUNet/MBH/asset/train_console_output_at_epoch53.png" width="920" height="auto"><br>
 <br>
 
